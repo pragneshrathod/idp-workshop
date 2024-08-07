@@ -24,8 +24,8 @@ spec:
   owner: TeamA
   lifecycle: experimental
 #  system: Demo
-#  dependsOn:
-#    - component:default/pragnesh-service
+  dependsOn:
+    - component:default/pragnesh-service
 #  consumesApis:
 #    - user-api
 #  providesApis:
